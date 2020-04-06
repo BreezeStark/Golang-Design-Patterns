@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="112d22e2-050f-4705-89ed-24cc21c01398" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1a4XB8neg3HcHscWq76QTf805Yi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ch1_singleton" />
+      <recent name="$PROJECT_DIR$/src/ch1_singleton/1_2" />
+      <recent name="$PROJECT_DIR$/src/ch1_singleton/1_1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.TestGetSingleton in singleton_test.go">
+    <configuration name="TestGetSingleton in singleton_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Golang_Design_Patterns" />
+      <working_directory value="$PROJECT_DIR$/src/ch1_singleton/1_2" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/src/ch1_singleton/1_2/singleton_test.go" />
+      <pattern value="^TestGetSingleton$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGetSingletonSecurity in security_singleton_test.go (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Golang_Design_Patterns" />
+      <working_directory value="$PROJECT_DIR$/src/ch1_singleton/1_1" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/src/ch1_singleton/1_1/security_singleton_test.go" />
+      <pattern value="^TestGetSingletonSecurity$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGetSingletonSecurity in security_singleton_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Golang_Design_Patterns" />
+      <working_directory value="$PROJECT_DIR$/src/ch1_singleton" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/src/ch1_singleton/security_singleton_test.go" />
+      <pattern value="^TestGetSingletonSecurity$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSingeltonSecurity2 in singleton_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Golang_Design_Patterns" />
+      <working_directory value="$PROJECT_DIR$/src/ch1_singleton" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/src/ch1_singleton/singleton_test.go" />
+      <pattern value="^TestSingeltonSecurity2$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="singleton_data.go singleton_test.go (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Golang_Design_Patterns" />
+      <working_directory value="$PROJECT_DIR$/src/ch1_singleton" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/src/ch1_singleton/singleton_data.go|$PROJECT_DIR$/src/ch1_singleton/singleton_test.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestGetSingleton in singleton_test.go" />
+        <item itemvalue="Go Test.TestGetSingletonSecurity in security_singleton_test.go (1)" />
+        <item itemvalue="Go Test.TestGetSingletonSecurity in security_singleton_test.go" />
+        <item itemvalue="Go Test.TestSingeltonSecurity2 in singleton_test.go" />
+        <item itemvalue="Go Test.singleton_data.go singleton_test.go (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="157" key="#GOROOT" timestamp="1585995742384">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="312" y="157" key="#GOROOT/0.23.1920.977@0.23.1920.977" timestamp="1585995742384" />
+    <state x="312" y="157" key="#Go_Modules_(vgo)" timestamp="1585995776740">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="312" y="157" key="#Go_Modules_(vgo)/0.23.1920.977@0.23.1920.977" timestamp="1585995776740" />
+    <state x="421" y="134" key="#go_build_singleton_data.go_singleton_test.go" timestamp="1586010221150">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="421" y="134" key="#go_build_singleton_data.go_singleton_test.go/0.23.1920.977@0.23.1920.977" timestamp="1586010221150" />
+    <state x="278" y="274" width="692" height="615" key="EditFileWatcherDialog" timestamp="1586009475561">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="278" y="274" width="692" height="615" key="EditFileWatcherDialog/0.23.1920.977@0.23.1920.977" timestamp="1586009475561" />
+    <state width="1358" height="250" key="GridCell.Tab.0.bottom" timestamp="1586029364671">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1358" height="250" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1586029364671" />
+    <state width="1358" height="250" key="GridCell.Tab.0.center" timestamp="1586029364670">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1358" height="250" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1586029364670" />
+    <state width="1358" height="250" key="GridCell.Tab.0.left" timestamp="1586029364670">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1358" height="250" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1586029364670" />
+    <state width="1358" height="250" key="GridCell.Tab.0.right" timestamp="1586029364671">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1358" height="250" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1586029364671" />
+    <state x="221" y="130" key="SettingsEditor" timestamp="1586010119171">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="221" y="130" key="SettingsEditor/0.23.1920.977@0.23.1920.977" timestamp="1586010119171" />
+  </component>
+</project>
